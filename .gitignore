@@ -1,3 +1,5 @@
+*.gexf
+log
 target
 data
 models
